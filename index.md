@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to HOTEL 7 DAYS
+                           
+                           VEG AND NON VEG
+                           
+                           HOT AND SPICY
 
 You can use the [editor on GitHub](https://github.com/renjuchandana/HOTEL/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
